@@ -32,4 +32,6 @@ yarn scraper
 npm run scraper
 ```
 
+!!! ApkMirror Cloudflare ile korunan bir websitesi oldugundan bazen cloudflare varyant asamasinda veriyi kazimama engel oluyor
+
 REST API kullanım dokümantasyonu için [bu bağlantıya](https://documenter.getpostman.com/view/25987700/2s9YeEarLp) göz atabilirsiniz
