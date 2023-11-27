@@ -1,0 +1,13 @@
+{
+    "name": "code_challenge",
+    "version": "0.0.1",
+    "main": "index.js",
+    "repository": "https://www.github.com/ofarukbicer/code_challenge",
+    "author": "ofarukbicer",
+    "license": "MIT",
+    "scripts": {
+        "server": "cd server && node server.js",
+        "dev": "cd server && node --watch server.js",
+        "scraper": "cd server && node scraper.js"
+    }
+}
